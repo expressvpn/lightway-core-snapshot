@@ -1,3 +1,7 @@
+*NOTE:* Lightway Core has moved to https://github.com/expressvpn/lightway-core
+
+'''
+
 = Lightway Core
 
 *NOTE:* This is a preview snapshot of the Lightway repository used for both our
